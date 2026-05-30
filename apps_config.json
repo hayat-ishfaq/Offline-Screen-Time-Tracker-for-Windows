@@ -1,0 +1,32 @@
+{
+  "Code.exe": "productive",
+  "devenv.exe": "productive",
+  "pycharm64.exe": "productive",
+  "idea64.exe": "productive",
+  "sublime_text.exe": "productive",
+  "notepad++.exe": "productive",
+  "WindowsTerminal.exe": "productive",
+  "powershell.exe": "productive",
+  "cmd.exe": "productive",
+  
+  "chrome.exe": "neutral",
+  "firefox.exe": "neutral",
+  "msedge.exe": "neutral",
+  "explorer.exe": "neutral",
+  "Excel.exe": "neutral",
+  "WINWORD.EXE": "neutral",
+  "POWERPNT.EXE": "neutral",
+  "Outlook.exe": "neutral",
+  "Teams.exe": "neutral",
+  "Slack.exe": "neutral",
+  
+  "Discord.exe": "distracting",
+  "spotify.exe": "distracting",
+  "steam.exe": "distracting",
+  "battle.net.exe": "distracting",
+  "netflix.exe": "distracting",
+  "youtube.exe": "distracting",
+  "TikTok.exe": "distracting",
+  "Instagram.exe": "distracting",
+  "Facebook.exe": "distracting"
+}
